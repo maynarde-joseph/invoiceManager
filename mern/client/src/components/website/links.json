@@ -1,0 +1,25 @@
+{
+        "links": [
+          {
+            "link": "#",
+            "label": "How Apple Pie Work"
+          },
+          {
+            "link": "#",
+            "label": "About Us"
+          },
+          {
+            "link": "#",
+            "label": "Privacy"
+          },
+          {
+            "link": "#",
+            "label": "Contact"
+          },
+          {
+            "link": "#",
+            "label": "Give Feedback"
+          }
+        ]
+      }
+      
